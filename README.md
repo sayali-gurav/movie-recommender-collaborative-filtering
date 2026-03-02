@@ -57,8 +57,6 @@ jupyter notebook matrix-data-for-recommender-systems.ipynb
 ## Files
 ```
 matrix-data-for-recommender-systems.ipynb   # Main notebook
-task2_sim_impact.png                         # Similarity metric comparison plot
-task2_neighbors_rmse.png                     # Neighbor count vs RMSE plot
 ```
 
 ---
